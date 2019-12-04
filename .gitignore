@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Não incluir diretórios de projeto do Jetbrains
+.idea/
